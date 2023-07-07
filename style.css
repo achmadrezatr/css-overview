@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  background-color: azure;
+}
+
+.main {
+  height: 400px;
+  width: 50%;
+  background-color: gray;
+  margin: 200px auto;
+  border-radius: 10px;
+}
+
